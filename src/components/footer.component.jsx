@@ -11,7 +11,7 @@ const Footer = ()=> (
             <div className="footer-item">
                 <h3> Github</h3>
                 <div className="icon"> 
-                 <a href="https://github.com/Domaradzki95?tab=repositories" target="_blank" rel="noopener noreferrer"><span>Odwiedź mojego Git'a</span><div className="icn" style={{backgroundImage: `url(${git})`}}></div> </a>
+                 <a href="https://github.com/PawelDomaradzki?tab=repositories" target="_blank" rel="noopener noreferrer"><span>Odwiedź mojego Git'a</span><div className="icn" style={{backgroundImage: `url(${git})`}}></div> </a>
                 
                 </div>
                
